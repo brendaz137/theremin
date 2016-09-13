@@ -1,3 +1,6 @@
+// Here's the website we used to lean more about the distance senor from :
+// https://blog.arduino.cc/2016/01/11/the-real-open-source-theremin-on-arduino/
+
 #define trigger 3 //"trigger" now refers to digital pin 3
 #define echo 4 //"echo" now refers to digital pin 4
 #define buzzer 5 //"buzzer" now refers to digital pin 5
